@@ -1,0 +1,39 @@
+PART C
+
+whoami
+
+What it does:Shows your Windows username and domain
+Example output:COMPUTER\YourUsername
+Your output:laptop-danmus7p\hp
+
+2. ipconfig
+
+what it does:Shows your network configuration(IP address,gateway,DNS)
+Look for:IPv4 Address
+Your IP Address:192.168.95.1
+Your Default Gateway:fe80::8c93:68ff:fecf:6af5%7
+
+3. dir
+
+What it does:Lists all files and folders in current directory
+Record 3 folders you see:documents,downloads,pictures
+
+4. mkdir BCA_Test
+
+What it does:Creates a new folder named "BCA_Test"
+Verify by typing:dir
+Did you see "BCA_Test" folder created?Yes/No
+
+5. tasklist
+
+What it does:Lists all running programs
+Record 5 running processes:System Idle Process,System,Secure System,Registry,smss.exe
+
+6. systeminfo
+
+What it does:Shows detailed Windows system information
+Record your Processor: 1 Processor(s) Installed.
+                      [01]: Intel64 Family 6 Model 154 Stepping 3 GenuineIntel ~2000 Mhz
+Record your Total Physical Memory:32,409 MB
+
+

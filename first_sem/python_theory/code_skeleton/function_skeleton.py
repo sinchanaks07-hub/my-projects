@@ -10,7 +10,7 @@ def get_price(item):
         return 40
     elif item == "Tea":
         return 10
-    elif item == "Coffee":
+    elif item == "coffee":
         return 40
     else:
        return 0
@@ -28,7 +28,7 @@ def generate_bill(subtotal, discount_percent=0):
     amount_after_discount = subtotal-discount
     gst = calculate_gst(amount_after_discount)
     total = amount_after_discount+gst
-    return gst,discount,total
+    return discount,gst,total
 
 def split_bill(total, people):
     each_pays = total/people

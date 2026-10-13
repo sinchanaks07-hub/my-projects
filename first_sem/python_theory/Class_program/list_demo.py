@@ -3,7 +3,7 @@ my_mark=[]      #dynamic initialization
 sum=0
 for number in range(5):
     newMark=int(input("Enter the mark:"))
-    my_mark.append(newMark)
+    my_mark.append(newMark)         # append built in method
 print('List elements are:')
 for i in range(len(my_mark)):
     print("my mark:",my_mark[i])

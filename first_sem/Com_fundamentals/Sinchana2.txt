@@ -1,0 +1,12 @@
+Name	: Sinchana K 
+Roll no : 26150511
+
+PART B
+
+BIOS Version/Date:AMI F.18, 21-08-2024
+OS Name:Microsoft Corporation
+OS Version:10.0.26200 
+OS Build:26200
+System Manufacture:HP
+System Model:Victus by HP Gaming Laptop 15-fa1xxx
+

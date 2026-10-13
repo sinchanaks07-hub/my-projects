@@ -1,0 +1,27 @@
+Name	: Sinchana K
+Roll no : 26150511
+
+PART A
+
+CPU(Processor):
+
+Model Name: 12th Gen lntel(R) Core(TM) i5-12450H
+Number of cores: 8
+Logical Processors: 12
+
+
+RAM(Memory):
+
+Total RAM: 32 GB DDR4
+RAM Speed(MHz):3200 MT/s
+
+
+Storage(Disk):
+
+Disk Type(HDD/SSD):SSD(NVMe)
+Total Disk Size:447GB
+
+GPU(Graphics):
+
+GPU Name:NVIDIA GeForce RTX 2050
+Dedicated Memory(if any):0.0/4.0GB

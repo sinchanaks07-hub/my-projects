@@ -27,8 +27,7 @@ print('Initials:',first[0].upper()+last[0].upper())
 print('Email\t:',email.lower())
 print('Domain\t:',email.split('@')[1].lower())
 print('Phone\t:',phone.replace("-",""))
-if len(phone == 10);   
 print('Valid\t:',True)
-else 
+
 
 print('===================================')
